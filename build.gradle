@@ -4,6 +4,9 @@ plugins {
     id 'com.github.johnrengelman.shadow' version '8.1.1'
 }
 
+
+mainClassName = 'org.example.Main'
+
 group = 'org.example'
 version = '1.0-SNAPSHOT'
 
